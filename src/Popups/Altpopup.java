@@ -32,7 +32,6 @@ public class Altpopup{
 		 
 		 Thread.sleep(3000);
 		driver.close();
-		 		 
-	}
+		 }
 
 }
